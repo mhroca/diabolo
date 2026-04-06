@@ -1,11 +1,11 @@
 const CACHE_NAME = 'diabolo-v1';
 const ASSETS = [
-  '/',
-  '/index.html',
-  '/manifest.json',
-  '/icons/icon-192x192.png',
-  '/icons/icon-512x512.png',
-  '/screenshot.png'
+  '/diabolo/',
+  '/diabolo/index.html',
+  '/diabolo/manifest.json',
+  '/diabolo/icons/icon-192x192.png',
+  '/diabolo/icons/icon-512x512.png',
+  '/diabolo/screenshot.png'
 ];
 
 self.addEventListener('install', e => {
